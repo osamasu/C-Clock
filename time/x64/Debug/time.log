@@ -1,0 +1,6 @@
+﻿  time.cpp
+C:\Users\lenovo\source\repos\time\time\Header.h(98,26): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\lenovo\source\repos\time\time\Header.h(98,40): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\lenovo\source\repos\time\time\Header.h(430): warning C4715: 'legend::GetRandomCharacter': not all control paths return a value
+C:\Users\lenovo\source\repos\time\time\time.cpp(236): warning C4715: 'RequiredNumber': not all control paths return a value
+  time.vcxproj -> C:\Users\lenovo\source\repos\time\x64\Debug\time.exe
